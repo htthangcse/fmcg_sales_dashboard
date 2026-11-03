@@ -2,7 +2,7 @@
 
 > Dashboard Power BI phân tích **~6.76 triệu giao dịch** của chuỗi siêu thị FMCG **Xóm Mart** (01/01/2018 – 09/05/2018), tập trung vào 3 bài toán: **Sales Performance**, **Customer Analytics (RFM)** và **Product Performance**. Các truy vấn T-SQL được dùng để đối soát độc lập với số liệu trên Power BI.
 
-
+https://github.com/user-attachments/assets/d90a84b6-d824-4ed7-aa9b-45590bdfd1aa
 
 ## Tóm tắt kết quả
 
